@@ -1,4 +1,11 @@
 # The-Stefan-Problem
+=====
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-red)
+![CUDA](https://img.shields.io/badge/CUDA-12.4-green)
+
+
 TBA
 
 
