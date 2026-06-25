@@ -7,7 +7,7 @@
 The mathematical description of phase change phenomena can be introduced through an idealized framework in which the transition between two distinct phases is governed primarily by heat conduction. Within this setting, each phase is characterized by its own temperature field, which evolves according to the classical heat diffusion equation. Specifically, the temperature $T_j$ in phase $j$ satisfies
 
 $$
-\frac{\partial T_j}{\partial t} = \alpha_j \nabla^2 T_j, \quad j \in \left{1,2\right},
+\frac{\partial T_j}{\partial t} = \alpha_j \nabla^2 T_j, \quad j \in \lbrace 1,2 \rbrace,
 $$
 
 where $\alpha_j$ denotes the thermal diffusivity associated with phase $j$. These equations are not valid at the phase-change interface $s(t)$, where $s$ is the spatial position evolving over time. Therefore, an additional condition, known as the Stefan condition is required to close the system.
