@@ -5,15 +5,19 @@
 ![CUDA](https://img.shields.io/badge/CUDA-12.4-green)
 -->
 The mathematical description of phase change phenomena can be introduced through an idealized framework in which the transition between two distinct phases is governed primarily by heat conduction. Within this setting, each phase is characterized by its own temperature field, which evolves according to the classical heat diffusion equation. Specifically, the temperature $T_j$ in phase $j$ satisfies
+
 $$
 \frac{\partial T_j}{\partial t} = \alpha_j \nabla^2 T_j, \quad j \in \{1,2\},
 $$
+
 where $\alpha_j$ denotes the thermal diffusivity associated with phase $j$. These equations are not valid at the phase-change interface $s(t)$, where $s$ is the spatial position evolving over time. Therefore, an additional condition, known as the Stefan condition is required to close the system.
 
 The Stefan condition, derived from energy conservation, gives the velocity of the moving interface as a function of the thermal fluxes on both sides of the boundary
+
 $$
 k_1 \frac{\partial T_1}{\partial n} - k_2 \frac{\partial T_2}{\partial n} = \rho L\, s'(t),\quad x = s(t),
 $$
+
 where $k_j$ is the thermal conductivity of phase $j$, $L$ is the latent heat, $\rho$ is the density, and $s'(t)$ denotes the interface velocity.\smallskip
 
 
