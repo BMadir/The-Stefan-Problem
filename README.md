@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <em> Predicted temperature evolution using Physics-Informed Neural Network.</em>
+  <em> Predicted temperature evolution using Physics-Informed Neural Networks.</em>
 </p>
 
 
