@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="docs/Stefan.gif" width="400">
+  <img src="docs/Stefan2D.gif" width="400">
 </p>
 
 <p align="center">
