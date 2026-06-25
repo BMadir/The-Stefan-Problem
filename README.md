@@ -33,7 +33,7 @@ where $k_j$ is the thermal conductivity of phase $j$, $L$ is the latent heat, $\
 </p>
 
 <p align="center">
-  <em> Temperature field $\Theta$ and phase-change interface evolution $s$ predicted by Physics-Informed Neural Networks.</em>
+  <em> Temperature field T and phase-change interface evolution s predicted by Physics-Informed Neural Networks.</em>
 </p>
 
 
