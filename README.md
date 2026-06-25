@@ -35,7 +35,7 @@ We solve numerically the Stefan problem, using Physics Informed Neural Networks 
 </p>
 
 <p align="center">
-  <em> Temperature field T and phase-change interface evolution s predicted by Physics-Informed Neural Networks.</em>
+  <em> Temperature field (T) and phase-change interface evolution (s) predicted by Physics-Informed Neural Networks.</em>
 </p>
 
 <br>
