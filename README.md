@@ -29,9 +29,9 @@ We solve numerically the Stefan problem, using Physics Informed Neural Networks 
 <br>
 
 <p align="center">
-  <img src="docs/Stefan.gif" height="300">
+  <img src="docs/Gif/Stefan.gif" height="300">
   &nbsp;&nbsp;
-  <img src="docs/Stefan2D.gif" height="300">
+  <img src="docs/Gif/Stefan2D.gif" height="300">
 </p>
 
 <p align="center">
