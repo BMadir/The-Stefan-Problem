@@ -20,8 +20,14 @@ $$
 
 where $k_j$ is the thermal conductivity of phase $j$, $L$ is the latent heat, $\rho$ is the density, and $s'(t)$ denotes the interface velocity.
 
-
 <br>
+
+---
+
+## Abstract
+
+We solve numerically the Stefan problem, using Physics Informed Neural Networks (PINNs). In the context of PINNs, this model leads to difficulties in the learning process, especially near the interface of phase change. We present different strategies that can be used in this context. We illustrate our results and compare with classical solvers for PDEs (finite differences).
+
 <br>
 <br>
 
