@@ -1,13 +1,17 @@
 # The-Stefan-Problem
-=====
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-red)
 ![CUDA](https://img.shields.io/badge/CUDA-12.4-green)
 
 
-TBA
+<p align="center">
+  <img src="docs/Stefan.gif" width="800">
+</p>
 
+<p align="center">
+  <em>Temperature evolution computed with a Physics-Informed Neural Network.</em>
+</p>
 
 
 ## References
