@@ -21,7 +21,9 @@ $$
 where $k_j$ is the thermal conductivity of phase $j$, $L$ is the latent heat, $\rho$ is the density, and $s'(t)$ denotes the interface velocity.
 
 
-
+<br>
+<br>
+<br>
 
 
 <p align="center">
