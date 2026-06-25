@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  <img src="docs/Stefan.gif" width="400" height="400">
-  <img src="docs/Stefan2D.gif" width="400" height="400">
+  <img src="docs/Stefan.gif" height="400">
+  <img src="docs/Stefan2D.gif" height="400">
 </p>
 
 <p align="center">
