@@ -24,13 +24,9 @@ where $k_j$ is the thermal conductivity of phase $j$, $L$ is the latent heat, $\
 
 ---
 
-## Abstract
-
 We solve numerically the Stefan problem, using Physics Informed Neural Networks (PINNs). In the context of PINNs, this model leads to difficulties in the learning process, especially near the interface of phase change. We present different strategies that can be used in this context. We illustrate our results and compare with classical solvers for PDEs (finite differences).
 
 <br>
-<br>
-
 
 <p align="center">
   <img src="docs/Stefan.gif" height="300">
@@ -42,6 +38,7 @@ We solve numerically the Stefan problem, using Physics Informed Neural Networks 
   <em> Temperature field T and phase-change interface evolution s predicted by Physics-Informed Neural Networks.</em>
 </p>
 
+<br>
 
 ## References
 
